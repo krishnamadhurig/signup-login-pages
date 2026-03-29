@@ -13,7 +13,7 @@ const signup=async(req,res)=>{
             where:{email}
         })
         if(existing){
-            return res.status(400).json({message:'User already registered'
+            return res.statusjson({message:'User already registered'
             })
 
         }
