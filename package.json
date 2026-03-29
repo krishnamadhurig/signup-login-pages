@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sign-up",
+=======
+  "name": "login-signup",
+>>>>>>> 8aea241 (Add to login page)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
