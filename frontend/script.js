@@ -60,7 +60,6 @@ if(res.ok){
 }catch(err){
     console.log(err)
 }
-
 })
 
 
